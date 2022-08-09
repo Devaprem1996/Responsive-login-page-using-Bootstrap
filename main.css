@@ -1,0 +1,21 @@
+/* .submit button {
+    margin: 75px 0 25px 0px;
+    padding: 10px;
+    text-align:center;
+    min-width:50px; 
+} */
+
+.box{
+    position: absolute;
+    top: 10%;
+    padding: 50px;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    color: wheat;
+}
+
+.header{
+    font-size: 4rem ;
+    font-weight:1000;
+}
+
